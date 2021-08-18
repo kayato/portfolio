@@ -1,3 +1,3 @@
-# portfolio
+# Portfolio
 
 This is a sample portfolio.
